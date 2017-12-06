@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "25513621347",
+    "firebase_url": "https://treasuredlogin-10e80.firebaseio.com",
+    "project_id": "treasuredlogin-10e80",
+    "storage_bucket": "treasuredlogin-10e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25513621347:android:bb0a72df80d9d7ed",
+        "android_client_info": {
+          "package_name": "edu.orangecoastcollege.cs273.treasuredlogin.balbert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25513621347-tkl9jviss4kop0l96dleg4bicmt3j7d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.orangecoastcollege.cs273.treasuredlogin.balbert",
+            "certificate_hash": "66d653f9553d54e822369fbc1c7150fff47d1b72"
+          }
+        },
+        {
+          "client_id": "25513621347-2eajn7i4rpid237h8msfft87nei6m77m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtidT7eJC1ZUPAQiLzOG8YIvHH1_QedZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25513621347-2eajn7i4rpid237h8msfft87nei6m77m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25513621347:android:a702730e63867fa1",
+        "android_client_info": {
+          "package_name": "edu.orangecoastcollege.cs273.treasuredlogin.bAlbert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25513621347-50fd6lc5c696i7u7obi2g3c0etshe50r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.orangecoastcollege.cs273.treasuredlogin.bAlbert",
+            "certificate_hash": "66d653f9553d54e822369fbc1c7150fff47d1b72"
+          }
+        },
+        {
+          "client_id": "25513621347-2eajn7i4rpid237h8msfft87nei6m77m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtidT7eJC1ZUPAQiLzOG8YIvHH1_QedZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25513621347-2eajn7i4rpid237h8msfft87nei6m77m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
